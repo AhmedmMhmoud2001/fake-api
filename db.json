@@ -1,1 +1,6 @@
-[{"ahmed":"mahmoud"},{"ahmed":"mahmoud"}]
+{
+  "posts":[
+    {"ahmed":"mahmoud"},
+    {"ahmed":"mahmoud"}
+  ]
+}
